@@ -1,0 +1,174 @@
+1° Round 
+
+Hards 1 X 2 Regly
+Hards 0 X 2 Chris
+Hards 2 X 1 Lucas
+Regly 1 X 2 Chris
+Regly 2 X 0 Lucas
+Chris 2 X 0 Lucas
+
+('Hards', 'Regly') 1 X 0 ('Chris', 'Lucas')
+('Hards', 'Chris') 1 X 0 ('Regly', 'Lucas')
+('Hards', 'Lucas') 1 X 0 ('Regly', 'Chris')
+
+**************************************************
+2° Round 
+
+Hards 0 X 2 Regly
+Hards 0 X 2 Chris
+Hards 0 X 2 Lucas
+Regly 2 X 1 Chris
+Regly 0 X 2 Lucas
+Chris 1 X 2 Lucas
+
+Hards 1 X 2 Regly
+Hards 0 X 2 Chris
+Hards 0 X 2 Lucas
+Regly 1 X 2 Chris
+Regly 2 X 1 Lucas
+Chris 2 X 1 Lucas
+
+('Hards', 'Regly') 0 X 1 ('Chris', 'Lucas')
+('Hards', 'Chris') 0 X 1 ('Regly', 'Lucas')
+('Hards', 'Lucas') 1 X 0 ('Regly', 'Chris')
+
+**************************************************
+3° Round 
+
+Hards 1 X 2 Regly
+Hards 1 X 2 Chris
+Hards 2 X 0 Lucas
+Regly 0 X 2 Chris
+Regly 0 X 2 Lucas
+Chris 2 X 0 Lucas
+
+Hards 2 X 0 Regly
+Hards 2 X 1 Chris
+Hards 1 X 2 Lucas
+Regly 2 X 0 Chris
+Regly 2 X 0 Lucas
+Chris 2 X 1 Lucas
+
+('Hards', 'Regly') 1 X 0 ('Chris', 'Lucas')
+('Hards', 'Chris') 0 X 1 ('Regly', 'Lucas')
+('Hards', 'Lucas') 0 X 1 ('Regly', 'Chris')
+
+**************************************************
+4° Round 
+
+Hards 0 X 2 Regly
+Hards 2 X 0 Chris
+Hards 2 X 1 Lucas
+Regly 0 X 2 Chris
+Regly 2 X 0 Lucas
+Chris 2 X 0 Lucas
+
+Hards 0 X 2 Regly
+Hards 1 X 2 Chris
+Hards 2 X 1 Lucas
+Regly 1 X 2 Chris
+Regly 1 X 2 Lucas
+Chris 2 X 1 Lucas
+
+('Hards', 'Regly') 0 X 1 ('Chris', 'Lucas')
+('Hards', 'Chris') 0 X 1 ('Regly', 'Lucas')
+('Hards', 'Lucas') 0 X 1 ('Regly', 'Chris')
+
+**************************************************
+5° Round 
+
+Hards 2 X 1 Regly
+Hards 2 X 1 Chris
+Hards 2 X 0 Lucas
+Regly 0 X 2 Chris
+Regly 1 X 2 Lucas
+Chris 2 X 0 Lucas
+
+Hards 2 X 0 Regly
+Hards 1 X 2 Chris
+Hards 1 X 2 Lucas
+Regly 1 X 2 Chris
+Regly 2 X 0 Lucas
+Chris 1 X 2 Lucas
+
+('Hards', 'Regly') 1 X 0 ('Chris', 'Lucas')
+('Hards', 'Chris') 0 X 1 ('Regly', 'Lucas')
+('Hards', 'Lucas') 0 X 1 ('Regly', 'Chris')
+
+**************************************************
+6° Round 
+
+Hards 2 X 1 Regly
+Hards 0 X 2 Chris
+Hards 2 X 0 Lucas
+Regly 0 X 2 Chris
+Regly 1 X 1 Lucas
+Chris 2 X 0 Lucas
+
+Hards 1 X 2 Regly
+Hards 0 X 2 Chris
+Hards 2 X 1 Lucas
+Regly 1 X 2 Chris
+Regly 2 X 0 Lucas
+Chris 2 X 1 Lucas
+
+Hards 2 X 1 Regly
+Hards 0 X 2 Chris
+Hards 0 X 2 Lucas
+Regly 2 X 1 Chris
+Regly 2 X 1 Lucas
+Chris 1 X 2 Lucas
+
+**************************************************
+7° Round 
+
+Hards 0 X 2 Regly
+Hards 1 X 2 Chris
+Hards 1 X 2 Lucas
+Regly 0 X 2 Chris
+Regly 2 X 1 Lucas
+Chris 2 X 1 Lucas
+
+Hards 1 X 2 Regly
+Hards 1 X 2 Chris
+Hards 2 X 0 Lucas
+Regly 2 X 1 Chris
+Regly 2 X 0 Lucas
+Chris 2 X 0 Lucas
+
+**************************************************
+8° Round 
+
+Hards 1 X 2 Regly
+Hards 0 X 2 Chris
+Hards 0 X 2 Lucas
+Regly 1 X 1 Chris
+Regly 0 X 2 Lucas
+Chris 2 X 0 Lucas
+
+('Hards', 'Regly') 1 X 0 ('Chris', 'Lucas')
+('Hards', 'Chris') 1 X 0 ('Regly', 'Lucas')
+('Hards', 'Lucas') 1 X 0 ('Regly', 'Chris')
+
+**************************************************
+9° Round 
+
+Hards 2 X 1 Regly
+Hards 2 X 1 Chris
+Hards 1 X 2 Lucas
+Regly 0 X 2 Chris
+Regly 0 X 2 Lucas
+Chris 1 X 2 Lucas
+
+Hards 2 X 1 Regly
+Hards 0 X 2 Chris
+Hards 2 X 0 Lucas
+Regly 0 X 2 Chris
+Regly 1 X 2 Lucas
+Chris 2 X 1 Lucas
+
+('Hards', 'Regly') 0 X 1 ('Chris', 'Lucas')
+('Hards', 'Chris') 1 X 0 ('Regly', 'Lucas')
+('Hards', 'Lucas') 0 X 1 ('Regly', 'Chris')
+
+**************************************************

@@ -1,7 +1,17 @@
 import streamlit as st
 import pandas as pd
 
-st.set_page_config(page_title="Bongas")
-st.title("Yugioh Championship")
+csscenter = "style='text-align: center;'"
 
-st.dataframe(pd.read_csv("total.csv"))
+st.set_page_config(page_title="Bongas", layout="centered")
+st.write(f"<h1 {csscenter}>Yugioh Championship<h1>", unsafe_allow_html=True)
+
+st.dataframe(pd.read_csv("total.csv"), hide_index=True)
+st.dataframe(pd.read_csv("points.csv"), hide_index=True)
+
+st.write(f"<h4 {csscenter}>History of Plays<h4>", unsafe_allow_html=True)
+with st.container(height=500):
+
+    for line in open("plays.txt", "r").readlines():
+        st.write(f"<h4 {csscenter}>{line}<h3>" if "Round" in line else line,
+            unsafe_allow_html=True)

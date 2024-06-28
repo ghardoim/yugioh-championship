@@ -1,5 +1,5 @@
-player,points,wins,defeats,3wins,0wins,draws
-Chris,110,34,10,7,19,1
-Regly,81,23,20,1,11,2
-Hards,63,16,29,1,7,0
-Lucas,60,15,29,1,7,1
+player,points,wins,defeats,3wins,0wins,draws,reverse,round
+Chris,127,38,12,8,22,1,0,9
+Regly,85,23,26,1,11,2,3,9
+Hards,74,20,31,1,8,0,4,9
+Lucas,72,19,31,2,8,1,4,9
