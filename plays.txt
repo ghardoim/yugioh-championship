@@ -1,4 +1,4 @@
-1° Round 
+Round 1
 
 Hards 1 X 2 Regly
 Hards 0 X 2 Chris
@@ -12,7 +12,7 @@ Chris 2 X 0 Lucas
 ('Hards', 'Lucas') 1 X 0 ('Regly', 'Chris')
 
 **************************************************
-2° Round 
+Round 2
 
 Hards 0 X 2 Regly
 Hards 0 X 2 Chris
@@ -33,7 +33,7 @@ Chris 2 X 1 Lucas
 ('Hards', 'Lucas') 1 X 0 ('Regly', 'Chris')
 
 **************************************************
-3° Round 
+Round 3
 
 Hards 1 X 2 Regly
 Hards 1 X 2 Chris
@@ -54,7 +54,7 @@ Chris 2 X 1 Lucas
 ('Hards', 'Lucas') 0 X 1 ('Regly', 'Chris')
 
 **************************************************
-4° Round 
+Round 4
 
 Hards 0 X 2 Regly
 Hards 2 X 0 Chris
@@ -75,7 +75,7 @@ Chris 2 X 1 Lucas
 ('Hards', 'Lucas') 0 X 1 ('Regly', 'Chris')
 
 **************************************************
-5° Round 
+Round 5
 
 Hards 2 X 1 Regly
 Hards 2 X 1 Chris
@@ -96,7 +96,7 @@ Chris 1 X 2 Lucas
 ('Hards', 'Lucas') 0 X 1 ('Regly', 'Chris')
 
 **************************************************
-6° Round 
+Round 6
 
 Hards 2 X 1 Regly
 Hards 0 X 2 Chris
@@ -120,7 +120,7 @@ Regly 2 X 1 Lucas
 Chris 1 X 2 Lucas
 
 **************************************************
-7° Round 
+Round 7
 
 Hards 0 X 2 Regly
 Hards 1 X 2 Chris
@@ -137,7 +137,7 @@ Regly 2 X 0 Lucas
 Chris 2 X 0 Lucas
 
 **************************************************
-8° Round 
+Round 8
 
 Hards 1 X 2 Regly
 Hards 0 X 2 Chris
@@ -151,7 +151,7 @@ Chris 2 X 0 Lucas
 ('Hards', 'Lucas') 1 X 0 ('Regly', 'Chris')
 
 **************************************************
-9° Round 
+Round 9
 
 Hards 2 X 1 Regly
 Hards 2 X 1 Chris
