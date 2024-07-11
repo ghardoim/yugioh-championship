@@ -9,10 +9,10 @@ st.write(f"<h1 {csscenter}>Yugioh Championship<h1>", unsafe_allow_html=True)
 st.dataframe(pd.read_csv("total.csv"), hide_index=True)
 
 pointsdf = pd.read_csv("points.csv")
-pointsdf["round"] = pointsdf["round"].apply(lambda x: f"Round {x}")
+# pointsdf["round"] = pointsdf["round"].apply(lambda x: f"Round {x}")
 
 for column in pointsdf.columns.drop(["player", "round", "matches", "tags"]):
-    st.line_chart(pointsdf, x="round", y=column, color="player")
+    st.line_chart(pointsdf, x="round", y=column, color="player", x_label="Round")
 
 # st.dataframe(pd.read_csv("points.csv"), hide_index=True)
 
