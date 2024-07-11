@@ -172,3 +172,24 @@ Chris 2 X 1 Lucas
 ('Hards', 'Lucas') 0 X 1 ('Regly', 'Chris')
 
 **************************************************
+Round 10
+
+Hards 1 X 2 Regly
+Hards 0 X 2 Chris
+Hards 2 X 0 Lucas
+Regly 1 X 1 Chris
+Regly 0 X 2 Lucas
+Chris 1 X 2 Lucas
+
+Hards 2 X 0 Regly
+Hards 2 X 0 Chris
+Hards 2 X 0 Lucas
+Regly 1 X 2 Chris
+Regly 0 X 2 Lucas
+Chris 2 X 0 Lucas
+
+('Hards', 'Regly') 1 X 0 ('Chris', 'Lucas')
+('Hards', 'Chris') 0 X 1 ('Regly', 'Lucas')
+('Hards', 'Lucas') 1 X 0 ('Regly', 'Chris')
+
+**************************************************
