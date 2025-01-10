@@ -17,3 +17,83 @@ Lucas 0 X 1 Filipe
 Antonio 1 X 2 Filipe
 
 **************************************************
+Round 2
+
+Round 2
+
+Hards 1 X 1 Regly
+Round 2
+
+Hards 1 X 1 Regly
+Round 2
+
+Hards 1 X 1 Regly
+Hards 1 X 1 Chris
+Hards 1 X 1 Lucas
+Hards 1 X 1 Antonio
+Round 2
+
+Hards 1 X 1 Regly
+Hards 1 X 1 Chris
+Hards 1 X 1 Lucas
+Hards 1 X 1 Antonio
+Round 2
+
+Hards 1 X 1 Regly
+Hards 1 X 1 Chris
+Hards 1 X 1 Lucas
+Hards 1 X 1 Antonio
+Hards 1 X 111 Filipe
+Regly 11 X 1 Chris
+Regly 11 X 11 Lucas
+Regly 1 X 1 Antonio
+Regly 1 X 1 Filipe
+Chris 11 X 1 Lucas
+Chris 1 X 1 Antonio
+Chris 1 X 1 Filipe
+Lucas 1 X 1 Antonio
+Lucas 11 X 1 Filipe
+Antonio 1 X 1 Filipe
+
+**************************************************
+Round 1
+
+Hards 9 X 9 Regly
+Round 1
+
+Hards 9 X 9 Regly
+Hards 9 X 9 Chris
+Hards 9 X 9 Lucas
+Hards 9 X 9 Antonio
+Hards 9 X 9 Filipe
+Regly 9 X 9 Chris
+Regly 9 X 9 Lucas
+Regly 9 X 9 Antonio
+Regly 9 X 9 Filipe
+Chris 9 X 9 Lucas
+Chris 9 X 9 Antonio
+Chris 9 X 9 Filipe
+Lucas 9 X 9 Antonio
+Lucas 9 X 9 Filipe
+Antonio 9 X 9 Filipe
+
+**************************************************
+Round 1
+
+Hards 0 X 2 Regly
+Hards 0 X 2 Chris
+Hards 2 X 0 Lucas
+Hards 1 X 1 Antonio
+Hards 0 X 2 Filipe
+Regly 2 X 0 Chris
+Regly 2 X 0 Lucas
+Regly 2 X 0 Antonio
+Regly 0 X 2 Filipe
+Chris 2 X 0 Lucas
+Chris 2 X 1 Antonio
+Chris 1 X 1 Filipe
+Lucas 2 X 0 Antonio
+Lucas 0 X 1 Filipe
+Antonio 1 X 2 Filipe
+
+**************************************************

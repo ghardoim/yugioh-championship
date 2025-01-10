@@ -1,7 +1,7 @@
-player,points,wins,defeats,5wins,0wins,draws,reverse,round,matches,tags
-Filipe,13,4,0,0,3,1,0,1,1,0
-Regly,12,4,1,0,4,0,0,1,1,0
-Chris,10,3,1,0,2,1,0,1,1,0
-Hards,4,1,3,0,1,1,0,1,1,0
-Lucas,3,1,4,0,1,0,0,1,1,0
-Antônio,1,0,4,0,0,1,0,1,1,0
+player,pts,m. won,draws,m. lost,wins,loses,2x0,sweep,reverse,round
+Filipe,13,4,1,0,8,2,3,0,0,1
+Regly,12,4,0,1,8,2,4,0,0,1
+Chris,10,3,1,1,7,4,2,0,0,1
+Hards,4,1,1,3,3,7,1,0,0,1
+Lucas,3,1,0,4,2,7,1,0,0,1
+Antonio,1,0,1,4,3,9,0,0,0,1
