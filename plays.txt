@@ -1,0 +1,19 @@
+Round 1
+
+Hards 0 X 2 Regly
+Hards 0 X 2 Chris
+Hards 2 X 0 Lucas
+Hards 1 X 1 Antonio
+Hards 0 X 2 Filipe
+Regly 2 X 0 Chris
+Regly 2 X 0 Lucas
+Regly 2 X 0 Antonio
+Regly 0 X 2 Filipe
+Chris 2 X 0 Lucas
+Chris 2 X 1 Antonio
+Chris 1 X 1 Filipe
+Lucas 2 X 0 Antonio
+Lucas 0 X 1 Filipe
+Antonio 1 X 2 Filipe
+
+**************************************************
