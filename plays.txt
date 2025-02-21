@@ -55,3 +55,22 @@ Lucas 1 X 1 Filipe
 Antonio 0 X 2 Filipe
 
 **************************************************
+Round 4
+
+Hards 1 X 2 Regly
+Hards 0 X 2 Chris
+Hards 0 X 2 Lucas
+Hards 0 X 2 Antonio
+Hards 2 X 0 Filipe
+Regly 0 X 2 Chris
+Regly 2 X 1 Lucas
+Regly 2 X 0 Antonio
+Regly 1 X 2 Filipe
+Chris 1 X 1 Lucas
+Chris 2 X 1 Antonio
+Chris 1 X 0 Filipe
+Lucas 1 X 0 Antonio
+Lucas 1 X 2 Filipe
+Antonio 2 X 1 Filipe
+
+**************************************************
