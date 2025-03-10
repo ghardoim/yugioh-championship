@@ -1,0 +1,24 @@
+<%= form_with(model: player, class:"mt-5") do |form| %>
+  <% if player.errors.any? %>
+    <div class="container col-8">
+
+      <ul style="list-style-type:none">
+        <% player.errors.each do |error| %>
+          <li class="alert alert-danger"><%= error.full_message %></li>
+        <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="container col-3 mb-3 border border-light border-bottom-0 rounded-top">
+    <div class="d-flex justify-content-around mt-3">
+      <%= form.text_field :name %>
+      <%= button_tag( :class => "btn btn-success btn-sm") do %>
+        <i class="bi bi-check-circle"></i>
+      <% end %>
+      <% if request.path.include?("new") %>
+        <%= link_to "", players_path, class:"bi bi-box-arrow-in-left btn btn-secondary btn-sm text-white" %>
+      <% end %>
+      </div>
+  </div>
+<% end %>

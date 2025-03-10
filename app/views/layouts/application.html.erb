@@ -22,7 +22,12 @@
     <%= javascript_importmap_tags %>
   </head>
 
-  <body>
+  <body class="text-center bg-dark text-white">
+    <div class="container col-8 mt-3">
+      <% flash.each do |key, value| %>
+        <div class="alert alert-success"><%= value %></div>
+      <% end %>
+    </div>
     <%= yield %>
   </body>
 </html>

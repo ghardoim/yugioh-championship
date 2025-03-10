@@ -1,0 +1,9 @@
+<div class="container col-3  border border-light border-top-0 rounded-bottom">
+  <div class="d-flex justify-content-around text-black mb-3">
+    <% if !request.path.include?("edit") %>
+      <%= link_to "", edit_player_path(@player), method: :get, class: "bi bi-pencil btn btn-warning btn-sm text-white" %>
+    <% end %>
+    <%= link_to "", players_path, class:"bi bi-box-arrow-in-left btn btn-secondary btn-sm text-white" %>
+    <%= button_to "", @player, method: :delete, class: "bi bi-trash btn btn-danger btn-sm"%>
+  </div>
+</div>

@@ -1,0 +1,9 @@
+<% content_for :title, "bongadores" %>
+
+<h1> . </h1>
+
+<div id="players">
+  <% @players.each do |player| %>
+    <%= render player %>
+  <% end %>
+</div>
