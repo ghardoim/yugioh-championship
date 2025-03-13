@@ -1,0 +1,16 @@
+<% content_for :title, "Editing match" %>
+
+<h1>Editing match</h1>
+<%= form_with(model: @match, url: edit_match_path, method: :post) do |f| %>
+
+  <%= render "form", match: @match, form:f %>
+  <%= button_tag(:class => "btn btn-success btn-sm") do %>
+    <i class="bi bi-check-circle"></i>
+  <% end %>
+<% end %>
+<br>
+
+<div>
+  <%= link_to "Show this match", @match %> |
+  <%= link_to "Back to matches", matches_path %>
+</div>

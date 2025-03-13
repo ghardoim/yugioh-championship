@@ -13,7 +13,7 @@
   <div class="container col-3 mb-3 border border-light border-bottom-0 rounded-top">
     <div class="d-flex justify-content-around mt-3">
       <%= form.text_field :name %>
-      <%= button_tag( :class => "btn btn-success btn-sm") do %>
+      <%= button_tag(:class => "btn btn-success btn-sm") do %>
         <i class="bi bi-check-circle"></i>
       <% end %>
       <% if request.path.include?("new") %>

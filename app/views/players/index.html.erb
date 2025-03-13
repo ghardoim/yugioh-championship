@@ -1,6 +1,9 @@
 <% content_for :title, "bongadores" %>
 
-<h1> . </h1>
+<div class="container d-flex justify-content-around col-3">
+  <%= link_to "bongador", new_player_path, class:"bi bi-plus mb-3 btn btn-success btn-lg text-white" %>
+  <%= link_to "matches", new_match_path, class:"bi bi-plus mb-3 btn btn-success btn-lg text-white" %>
+</div>
 
 <div id="players">
   <% @players.each do |player| %>

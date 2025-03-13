@@ -1,0 +1,26 @@
+
+<div class="container col-2 border border-white rounded mb-1">
+  <div class="d-flex justify-content-around mb-2 mt-3">
+    <%= form.fields_for "matches[]", match do |mform| %>
+      <% if match.errors.any? %>
+        <div style="color: red">
+          <h2><%= pluralize(match.errors.count, "error") %> prohibited this match from being saved:</h2>
+
+          <ul>
+            <% match.errors.each do |error| %>
+              <li><%= error.full_message %></li>
+            <% end %>
+          </ul>
+        </div>
+      <% end %>
+
+      <%= mform.label :player_1_name, value: mform.object.player_1&.name %>
+      <%= mform.hidden_field :player_1_id, value: mform.object.player_1&.id %>
+      <%= mform.number_field :wins1, min: 0, max: 2 %>
+      <span>x</span>
+      <%= mform.number_field :wins2, min: 0, max: 2 %>
+      <%= mform.label :player_2_name, value: mform.object.player_2&.name %>
+      <%= mform.hidden_field :player_2_id, value: mform.object.player_2&.id %>
+    <% end %>
+  </div>
+</div>

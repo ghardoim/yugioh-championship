@@ -1,0 +1,8 @@
+<%= form_with(model: @matches, url: matches_path, method: :post) do |f| %>
+  <% @matches.each_with_index do |match, index| %>
+    <%= render "form", form: f, match:match, index:index %>
+  <% end %>
+  <%= button_tag(:class => "btn btn-success btn-sm") do %>
+    <i class="bi bi-check-circle"></i>
+  <% end %>
+<% end %>
