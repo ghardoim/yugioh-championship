@@ -74,3 +74,22 @@ Lucas 1 X 2 Filipe
 Antonio 2 X 1 Filipe
 
 **************************************************
+Round 5
+
+Hards 2 X 1 Regly
+Hards 0 X 2 Chris
+Hards 2 X 0 Lucas
+Hards 1 X 0 Antonio
+Hards 0 X 2 Filipe
+Regly 0 X 2 Chris
+Regly 2 X 1 Lucas
+Regly 1 X 2 Antonio
+Regly 0 X 2 Filipe
+Chris 2 X 0 Lucas
+Chris 2 X 1 Antonio
+Chris 0 X 2 Filipe
+Lucas 0 X 2 Antonio
+Lucas 0 X 2 Filipe
+Antonio 0 X 2 Filipe
+
+**************************************************
